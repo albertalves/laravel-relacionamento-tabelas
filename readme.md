@@ -1,3 +1,3 @@
 ## Sobre
 
-Projeto do curso de Relacionamento de Tabelas com o Laravel da Especializati Academy.
+Projeto desenvolvido durante o curso de Relacionamento de Tabelas com o Laravel na Especializati Academy.
